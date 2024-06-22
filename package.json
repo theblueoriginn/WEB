@@ -1,0 +1,15 @@
+{
+  "name": "newpackage",
+  "version": "1.0.0",
+  "description": "Good",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "mysql": "^2.18.1"
+  }
+}
